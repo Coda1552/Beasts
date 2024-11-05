@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:chain"
+    },
+    "S": {
+      "tag": "beasts:jellywood_log_item"
+    }
+  },
+  "pattern": [
+    "# #",
+    "SSS",
+    "SSS"
+  ],
+  "result": {
+    "count": 6,
+    "item": "beasts:jellywood_hanging_sign"
+  },
+  "show_notification": true
+}

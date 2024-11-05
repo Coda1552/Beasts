@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "beasts:block/stripped_jellywood_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "beasts:block/stripped_jellywood_log"
+    },
+    "axis=z": {
+      "model": "beasts:block/stripped_jellywood_log_horizontal",
+      "x": 90
+    }
+  }
+}

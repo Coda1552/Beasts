@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "beasts:block/jellywood_slab"
+    },
+    "type=double": {
+      "model": "beasts:block/jellywood_planks"
+    },
+    "type=top": {
+      "model": "beasts:block/jellywood_slab_top"
+    }
+  }
+}

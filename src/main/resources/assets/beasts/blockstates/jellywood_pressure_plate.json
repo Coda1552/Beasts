@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "beasts:block/jellywood_pressure_plate"
+    },
+    "powered=true": {
+      "model": "beasts:block/jellywood_pressure_plate_down"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "values": [
+    "beasts:jellywood_planks",
+    "beasts:jellywood_stairs",
+    "beasts:jellywood_slab",
+    "beasts:jellywood_button",
+    "beasts:jellywood_pressure_plate",
+    "beasts:jellywood_fence",
+    "beasts:jellywood_fence_gate",
+    "beasts:jellywood_door",
+    "beasts:jellywood_trapdoor",
+    "beasts:jellywood_log",
+    "beasts:stripped_jellywood_log",
+    "beasts:jellywood_wood",
+    "beasts:stripped_jellywood_wood",
+    "beasts:jellywood_sign",
+    "beasts:jellywood_wall_sign",
+    "beasts:jellywood_hanging_sign",
+    "beasts:jellywood_wall_hanging_sign"
+  ]
+}

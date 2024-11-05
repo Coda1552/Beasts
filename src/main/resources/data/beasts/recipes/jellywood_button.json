@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "beasts:jellywood_planks"
+    }
+  ],
+  "result": {
+    "item": "beasts:jellywood_button"
+  }
+}

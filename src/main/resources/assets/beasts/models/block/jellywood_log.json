@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "beasts:block/jellywood_log_top",
+    "side": "beasts:block/jellywood_log"
+  }
+}
