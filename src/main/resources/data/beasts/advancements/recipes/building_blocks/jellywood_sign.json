@@ -1,12 +1,12 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_jellywood_log": {
+    "has_jelly_log": {
       "conditions": {
         "items": [
           {
             "items": [
-              "beasts:jellywood_log"
+              "beasts:jelly_log"
             ]
           }
         ]
@@ -22,7 +22,7 @@
   },
   "requirements": [
     [
-      "has_jellywood_log",
+      "has_jelly_log",
       "has_the_recipe"
     ]
   ],

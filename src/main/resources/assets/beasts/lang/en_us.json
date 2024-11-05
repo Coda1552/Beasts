@@ -1,0 +1,31 @@
+{
+  "itemGroup.beasts": "Beasts",
+
+  "block.beasts.jellywood_sapling": "Jelly Polyp",
+  "block.beasts.potted_jellywood_sapling": "Potted Jellywood Sapling",
+  "block.beasts.jelly_log": "Jelly Log",
+  "block.beasts.stripped_jelly_log": "Stripped Jelly Log",
+  "block.beasts.jelly_wood": "Jelly Wood",
+  "block.beasts.stripped_jelly_wood": "Stripped Jelly Wood",
+  "block.beasts.jellybell": "Jellybell",
+  "block.beasts.jellywood_planks": "Jellywood Planks",
+  "block.beasts.jellywood_button": "Jellywood Button",
+  "block.beasts.jellywood_fence": "Jellywood Fence",
+  "block.beasts.jellywood_fence_gate": "Jellywood Fence Gate",
+  "block.beasts.jellywood_door": "Jellywood Door",
+  "block.beasts.jellywood_trapdoor": "Jellywood Trapdoor",
+  "block.beasts.jellywood_slab": "Jellywood Slab",
+  "block.beasts.jellywood_stairs": "Jellywood Stairs",
+  "block.beasts.jellywood_pressure_plate": "Jellywood Pressure Plate",
+
+  "block.beasts.jellywood_sign": "Jellywood Sign",
+  "block.beasts.jellywood_wall_sign": "Jellywood Sign",
+  "block.beasts.jellywood_wall_hanging_sign": "Jellywood Hanging Sign",
+  "block.beasts.jellywood_hanging_sign": "Jellywood Hanging Sign",
+
+  "item.beasts.jellywood_boat": "Jellywood Boat",
+  "item.beasts.jellywood_chest_boat": "Jellywood Boat with Chest",
+
+  "entity.beasts.mod_boat": "Boat",
+  "entity.beasts.mod_chest_boat": "Boat with Chest"
+}

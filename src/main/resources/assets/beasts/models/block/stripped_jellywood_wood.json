@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "beasts:block/stripped_jellywood_log",
-    "side": "beasts:block/stripped_jellywood_log"
-  }
-}

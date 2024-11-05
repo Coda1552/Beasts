@@ -4,7 +4,7 @@
   "group": "planks",
   "ingredients": [
     {
-      "tag": "beasts:jellywood_log_item"
+      "tag": "beasts:jelly_log_item"
     }
   ],
   "result": {
